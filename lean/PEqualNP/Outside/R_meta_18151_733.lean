@@ -1,4 +1,3 @@
-import Mathlib
 import PEqualNP.Defs
 
 theorem PEqualNP.Outside.R_meta_18151_733
